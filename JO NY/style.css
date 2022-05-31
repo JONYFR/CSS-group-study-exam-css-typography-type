@@ -1,0 +1,116 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        height: 640px;
+    }
+    
+    header {
+        background-color: #7FFFD4;
+        padding: 20px;
+    }
+    
+    section {
+        background-color: #e1f7f7;
+        width: 100%;
+        height: 490px;
+    }
+    
+    footer {
+        background-color: rgb(182, 182, 246);
+        color: red;
+        text-align: center;
+        font-size: 18px;
+        margin-top: 0;
+        padding: 9px;
+    }
+    
+    .J-3 .J-4 .J-5 .J-6 {
+        box-shadow: 9px 9px #111;
+    }
+    
+    .J-1 {
+        font-size: 25px;
+        background-color: #2F4F4F;
+        color: #FF1493;
+        font-weight: 600;
+        text-align: center;
+        width: 100%;
+        margin-top: 3px;
+    }
+    
+    .J-2 {
+        font-size: 25px;
+        background-color: #0a1717;
+        color: #f207cb;
+        font-weight: 600;
+        text-align: center;
+        width: 100%;
+        margin-top: 10px;
+    }
+    
+    .J-3 {
+        background-color: #D8BFD8;
+        color: #111;
+        text-align: center;
+        width: 95%;
+        margin: auto;
+        margin-bottom: 20px;
+        font-size: large;
+        height: 100px;
+        border: 1px solid red;
+        border-radius: 5px;
+        box-shadow: 5px 5px 5px black;
+        font-weight: 500;
+    }
+    
+    .J-4 {
+        background-color: #111;
+        color: #fff;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 20px;
+        letter-spacing: 2px;
+        line-height: 20px;
+        font-weight: 500;
+        width: 95%;
+        height: 90px;
+        border-radius: 5px;
+        font-size: 20px;
+        border: 1px solid red;
+        box-shadow: 5px 5px 5px black;
+    }
+    
+    .J-5 {
+        background-color: #800080;
+        color: #00FFFF;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 20px;
+        font-size: large;
+        width: 95%;
+        height: 90px;
+        border-radius: 5px;
+        border: 1px solid blue;
+        box-shadow: 5px 5px 5px black;
+        line-height: 35px;
+    }
+    
+    .J-6 {
+        background-color: #778899;
+        color: #111;
+        text-align: center;
+        margin: auto;
+        font-size: large;
+        width: 95%;
+        text-decoration: solid;
+        height: 120px;
+        border: 1px solid black;
+        border-radius: 5px;
+        box-shadow: 5px 5px 5px black;
+        letter-spacing: 1px;
+        line-height: 30px;
+        text-transform: capitalize;
+    }
